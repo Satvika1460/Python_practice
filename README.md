@@ -1,71 +1,81 @@
-Data Structures and Algorithms Practice
+# Data Structures and Algorithms Practice
+
 Welcome to my journey of learning and practicing Data Structures and Algorithms in Python! This repository is dedicated to documenting my progress as I explore various data structures and algorithms. If you're new to this, fear not – we're in this together!
 
-Getting Started
-Clone the Repository:
+## Getting Started
 
-git clone https://github.com/satvika1460/satvika_root.git
-Install Python: Make sure you have Python installed on your machine. If not, you can download it from python.org.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/satvika1460/satvika_root.git
+   ```
 
-Problems to Practice
-Data Structures
-Lists and strings:
+2. **Install Python:**
+   Make sure you have Python installed on your machine. If not, you can download it from [python.org](https://www.python.org/).
 
-Understanding basic list operations.
-Stacks:
+## Problems to Practice
 
-Implementing a stack and solving related problems.
-Queues:
+### Data Structures
 
-Exploring queue data structures.
-Linked Lists:
+1. **Lists and strings:**
+   - Understanding basic list operations.
 
-Implementing and mastering linked lists.
-Trees:
+2. **Stacks:**
+   - Implementing a stack and solving related problems.
 
-Working with binary trees and search trees.
-Graphs:
+3. **Queues:**
+   - Exploring queue data structures.
 
-Solving problems related to graph structures.
-Hash Tables:
+4. **Linked Lists:**
+   - Implementing and mastering linked lists.
 
-Learning about hash tables and their applications.
-Heaps:
+5. **Trees:**
+   - Working with binary trees and search trees.
 
-Implementing and using heap data structures.
-Algorithms
-Sorting:
+6. **Graphs:**
+   - Solving problems related to graph structures.
 
-Practicing various sorting algorithms.
-Searching:
+7. **Hash Tables:**
+   - Learning about hash tables and their applications.
 
-Exploring different searching algorithms.
-Recursion:
+8. **Heaps:**
+   - Implementing and using heap data structures.
 
-Mastering recursion in Python.
-Dynamic Programming:
+### Algorithms
 
-Understanding and implementing dynamic programming solutions.
-Graph Algorithms:
+1. **Sorting:**
+   - Practicing various sorting algorithms.
 
-Solving problems specific to graphs.
-Divide and Conquer:
+2. **Searching:**
+   - Exploring different searching algorithms.
 
-Applying the divide and conquer paradigm.
-How to Use This Repository
-Each Topic Has Its Own Directory:
+3. **Recursion:**
+   - Mastering recursion in Python.
 
-Navigate to the respective directory (e.g., data_structures/lists, algorithms/sorting).
-Python Scripts:
+4. **Dynamic Programming:**
+   - Understanding and implementing dynamic programming solutions.
 
-Find Python scripts for each problem or concept.
-Comments and Documentation:
+5. **Graph Algorithms:**
+   - Solving problems specific to graphs.
 
-Read the comments and documentation within the scripts to understand the code.
-Experiment and Modify:
+6. **Divide and Conquer:**
+   - Applying the divide and conquer paradigm.
 
-Feel free to experiment with the code, make modifications, and see how it affects the output.
-Contribution
-If you have any suggestions, improvements, or new problems to add, please feel free to contribute!
+## How to Use This Repository
+
+1. **Each Topic Has Its Own Directory:**
+   - Navigate to the respective directory (e.g., `data_structures/lists`, `algorithms/sorting`).
+
+2. **Python Scripts:**
+   - Find Python scripts for each problem or concept.
+
+3. **Comments and Documentation:**
+   - Read the comments and documentation within the scripts to understand the code.
+
+4. **Experiment and Modify:**
+   - Feel free to experiment with the code, make modifications, and see how it affects the output.
+
+## Contribution
+
+If you have any suggestions, improvements, or new problems to add, please feel free to contribute! 
 
 Happy coding and learning! 🚀
